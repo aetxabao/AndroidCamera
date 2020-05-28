@@ -1,0 +1,4 @@
+#Fri May 29 00:31:23 CEST 2020
+base.0=D\:\\Android\\AndroidCamera\\app\\build\\intermediates\\dex\\debug\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
